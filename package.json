@@ -1,0 +1,14 @@
+{
+  "name": "orchestratorreport",
+  "version": "1.0.0",
+  "description": "Receives json folder and output them as excel files",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "YCoro",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.11"
+  }
+}

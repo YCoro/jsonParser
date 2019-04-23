@@ -1,0 +1,68 @@
+{
+  "value":[{
+    "QueueID": 1,
+    "Status":"Succesful",
+    "Specific Content":{
+      "Pais":"CR",
+      "Formato":"SUPERMERCADO",
+      "NumeroTienda":"3024",
+      "NombreTienda":"San Antonio",
+      "Clasificacion":"10 - Insumos",
+      "Departamento": "201 - Licores",
+      "Categoria": "10-Candy"
+    }
+  },
+  {
+    "QueueID": 2,
+    "Status":"Failed",
+    "Specific Content":{
+      "Pais":"CR",
+      "Formato":"SUPERMERCADO",
+      "NumeoTienda":"3020",
+      "NombreTienda":"San Vicente",
+      "Clasificacion":"10 - Insumos",
+      "Departamento": "202 - Licores",
+      "Categoria": "10-Candy"
+    }
+  },
+  {
+    "QueueID": 5,
+    "Status":"Failed",
+    "Specific Content":{
+      "Pais":"CR",
+      "Formato":"SUPERMERCADO",
+      "NumeoTienda":"3020",
+      "NombreTienda":"San Vicente",
+      "Clasificacion":"10 - Insumos",
+      "Departamento": "203 - Licores",
+      "Categoria": "10-Candy"
+    }
+  },
+  {
+    "QueueID": 6,
+    "Status":"Failed",
+    "Specific Content":{
+      "Pais":"CR",
+      "Formato":"SUPERMERCADO",
+      "NumeoTienda":"3024",
+      "NombreTienda":"San Antonio",
+      "Clasificacion":"10 - Insumos",
+      "Departamento": "204 - Licores",
+      "Categoria": "10-Candy"
+    }
+  },
+  {
+    "QueueID": 3,
+    "Status":"Retried",
+    "Specific Content":{
+      "Pais":"CR",
+      "Formato":"SUPERMERCADO",
+      "NumeroTienda":"3024",
+      "NombreTienda":"San Vicente",
+      "Clasificacion":"10 - Insumos",
+      "Departamento": "205 - Licores",
+      "Categoria": "10-Candy"
+    }
+  }
+  ]
+}
